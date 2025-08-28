@@ -95,16 +95,3 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" />
-</div>
-
-<div align="center">
-  
-*"Каждая строчка кода — это шаг к решению чьей-то проблемы"*
-
-**⭐ Если вам понравились мои проекты, поставьте звёздочку!**
-
-</div>
