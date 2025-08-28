@@ -92,25 +92,15 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+</div>
 
-**💬 Open for discussion:**
+<div>
+  
+**💬 Відкритий для обговорення:**
 - Commercial projects
 - Python development
 - Process automation
 - Creation of bots
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" />
-</div>
-
-<div align="center">
-  
-*"Every line of code is a step towards solving someone's problem"*
-
-**⭐ If you liked my projects, please leave a star!**
-
 </div>
