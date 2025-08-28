@@ -87,11 +87,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriifridman99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurii-fridman-662b87246/)
 
+</div>
+<div>
+
 **💬 Открыт для обсуждения:**
 - Коммерческие проекты
 - Python разработка
 - Автоматизация процессов
 - Создание ботов
 
+</div>
 </div>
 
