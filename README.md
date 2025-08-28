@@ -96,7 +96,7 @@
 
 <div>
   
-**💬 Відкритий для обговорення:**
+**💬 Open for discussion:**
 - Commercial projects
 - Python development
 - Process automation
