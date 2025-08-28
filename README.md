@@ -42,10 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiFridman&layout=compact&langs_count=8&theme=vue-dark"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriiFridman&theme=vue-dark" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Публичные проекты
 
 ### 🌟 Избранные репозитории
